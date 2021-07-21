@@ -7,6 +7,7 @@
     cursor: pointer;
     border-radius: 4px;
 
+
 }
 .button1 {
     background-color: violet;
@@ -28,15 +29,16 @@
     border-radius: 50%;
 }
 
-#container
+#container, #container2
 {
-text-align: left;
-}
-#container2{
+padding-left: 50px;
+padding-top: 50px;
 text-align: left;
 }
 #container3 {
     text-align: left;
     height: 20px;
     width: 300px;
+    padding-left: 50px;
+    padding-top: 50px;
 }
